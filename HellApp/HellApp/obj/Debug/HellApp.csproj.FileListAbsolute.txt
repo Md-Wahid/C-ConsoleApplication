@@ -1,0 +1,6 @@
+F:\Tutorials\C#\HellApp\HellApp\bin\Debug\HellApp.exe.config
+F:\Tutorials\C#\HellApp\HellApp\bin\Debug\HellApp.exe
+F:\Tutorials\C#\HellApp\HellApp\bin\Debug\HellApp.pdb
+F:\Tutorials\C#\HellApp\HellApp\obj\Debug\HellApp.csprojResolveAssemblyReference.cache
+F:\Tutorials\C#\HellApp\HellApp\obj\Debug\HellApp.exe
+F:\Tutorials\C#\HellApp\HellApp\obj\Debug\HellApp.pdb

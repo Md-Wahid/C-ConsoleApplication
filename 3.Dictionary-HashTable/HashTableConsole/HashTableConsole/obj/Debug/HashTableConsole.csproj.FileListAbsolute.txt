@@ -1,0 +1,6 @@
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\bin\Debug\HashTableConsole.exe.config
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\bin\Debug\HashTableConsole.exe
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\bin\Debug\HashTableConsole.pdb
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\obj\Debug\HashTableConsole.csprojResolveAssemblyReference.cache
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\obj\Debug\HashTableConsole.exe
+F:\C#\3.Dictionary-HashTable\HashTableConsole\HashTableConsole\obj\Debug\HashTableConsole.pdb

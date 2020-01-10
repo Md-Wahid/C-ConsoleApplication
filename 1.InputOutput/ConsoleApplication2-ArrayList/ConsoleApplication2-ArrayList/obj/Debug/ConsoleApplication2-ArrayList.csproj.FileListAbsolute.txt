@@ -1,0 +1,2 @@
+F:\C#\1.InputOutput\ConsoleApplication2-ArrayList\ConsoleApplication2-ArrayList\bin\Debug\ConsoleApplication2-ArrayList.exe.config
+F:\C#\1.InputOutput\ConsoleApplication2-ArrayList\ConsoleApplication2-ArrayList\obj\Debug\ConsoleApplication2-ArrayList.csprojResolveAssemblyReference.cache
