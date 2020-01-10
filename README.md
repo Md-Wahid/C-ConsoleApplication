@@ -1,5 +1,12 @@
-#My App
-This is my app.
-##Git Practicing
-This just for practicing git. Not too important.
-###.....Thank You.....
+Console Application
+---------------------
+
+Simple Console Application.
+
+Using
+----------------
+1. C#.
+2. Visual Studio
+
+.....Thank You.....
+----------------------
